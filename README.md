@@ -11,4 +11,5 @@ The purpose of this project is to train an agent to perform a specific task usin
 The agent was trained for 7 days continuously, with regular checkpoints saved to ensure progress was not lost.
 
 Functionality of Final Agent Behavior:
-[]("/output-preview.gif")
+
+![Urban Scale Preview Image](/output-preview.gif)
