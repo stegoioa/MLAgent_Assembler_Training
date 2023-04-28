@@ -4,7 +4,7 @@ This repository contains scripts and resources for training a reinforcement lear
 
 ## Overview
 
-The purpose of this project is to train an agent to perform a specific task using imitation learning. The agent is first trained with transfer-learning methods and later trained indepednantly to create unique solving skills.. After that, I fine-tune the agent using reinforcement learning techniques.
+The purpose of this project is to train an agent to perform a specific task using imitation learning. The agent is first trained with transfer-learning methods and later trained indepednantly to create unique solving skills.. After that, I fine-tune the agent using reinforcement learning techniques. All scripts should added to the Unity Assets folder and can be implemented from there.
 
 ## Training Expectations
 
